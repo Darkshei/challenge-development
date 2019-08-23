@@ -9,7 +9,7 @@ Once done, be sure to setup your github credits in *config.js*
 ## GET /getrepos/:username
 Get all repositories from a specific user
 **Example :**
-/getrepos/Ryotaro
+/getrepos/Darkshei
 
 ```json
 [
